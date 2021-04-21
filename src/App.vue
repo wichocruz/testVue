@@ -15,7 +15,7 @@
           width="40"
         />
 
-        <v-im
+        <v-img
           alt="Vuetify Name"
           class="shrink mt-1 hidden-sm-and-down"
           contain
